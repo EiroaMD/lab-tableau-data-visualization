@@ -1,0 +1,5 @@
+
+https://public.tableau.com/profile/daniel.eiroa#!/vizhome/Lab_Data_Visualization_Tableau/Dashboard1?publish=yes
+
+Bonus:
+https://public.tableau.com/profile/daniel.eiroa#!/vizhome/IH_Lab_Tableau_Data_Viz_Bonus/Dashboard1?publish=yes
